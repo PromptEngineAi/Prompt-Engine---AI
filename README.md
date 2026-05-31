@@ -11,9 +11,8 @@ No complex terminal commands, no fragmented dashboards. Just type what you want,
 Below is the conceptual framework of our core engine, moving from decentralized human prompt parsing to high-frequency on-chain execution.
 
 <p align="center">
-  <img src="https://images.googleusercontent.com/image_generation_content/0" alt="Prompt Engine Technical Architecture" width="100%">
+  <img src="https://lh3.googleusercontent.com/d/1S_M2o_tA_Ww6EitEksHw0Z1E5Gj_Pxlm" alt="Prompt Engine Technical Architecture" width="100%">
 </p>
-
 ## 🚀 Core Pillars & Layer Breakdown
 
 ### 1. 📥 Input & Prompt Layer (The Interpreter)
